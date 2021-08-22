@@ -15,7 +15,7 @@
     "cli-color": "*",
     "cryptoforknote-util": "git://github.com/MoneroOcean/node-cryptoforknote-util.git",
     "cryptonight-hashing": "git://github.com/MoneroOcean/node-cryptonight-hashing.git",
-    "multi-hashing": "git://github.com/ipbc-dev/node-multi-hashing",
+    "multi-hashing": "git://github.com/MoneroOcean/node-cryptonight-hashing",
     "dateformat": "*",
     "mailgun.js": "*",
     "node-telegram-bot-api": "*",
